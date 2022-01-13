@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **a super secret project.**
 
-- 🌱 I’m currently learning **HTML and CSS.**
-
-- 💬 Ask me about **react, react-native, java, python and c++.**
+- 🌱 I’m currently learning **Android Development and Kotlin.**
 
 - 📫 How to reach me **rakshit.lko@gmail.com**
 
